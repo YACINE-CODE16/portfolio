@@ -1,6 +1,6 @@
 import { motion } from 'framer-motion';
 import { useInView } from 'react-intersection-observer';
-import { GraduationCap, Calendar, BookOpen } from 'lucide-react';
+import { Calendar, BookOpen } from 'lucide-react';
 import { education } from '../data/portfolio';
 
 export default function Education() {

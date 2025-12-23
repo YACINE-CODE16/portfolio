@@ -1,4 +1,4 @@
-import { Code2, Database, BarChart3, Terminal, Award, Briefcase, GraduationCap, Mail, Phone, Linkedin, Github, ExternalLink } from 'lucide-react';
+import { Code2, Database, BarChart3, Terminal, Award, Mail, Linkedin, Github } from 'lucide-react';
 
 export const personalInfo = {
   name: "Yacine ALLAM",

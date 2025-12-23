@@ -1,6 +1,6 @@
 import { motion } from 'framer-motion';
 import { useInView } from 'react-intersection-observer';
-import { MapPin, Calendar, ExternalLink } from 'lucide-react';
+import { MapPin, Calendar } from 'lucide-react';
 import { experiences } from '../data/portfolio';
 
 export default function Experience() {

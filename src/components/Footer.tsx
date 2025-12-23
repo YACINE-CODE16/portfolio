@@ -1,4 +1,3 @@
-import { motion } from 'framer-motion';
 import { Heart, Github, Linkedin, Mail } from 'lucide-react';
 import { personalInfo, navLinks } from '../data/portfolio';
 
