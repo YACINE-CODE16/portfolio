@@ -1,4 +1,4 @@
-import { Heart, Github, Linkedin, Mail } from 'lucide-react';
+import { Github, Linkedin, Mail } from 'lucide-react';
 import { personalInfo, navLinks } from '../data/portfolio';
 
 export default function Footer() {
@@ -70,9 +70,6 @@ export default function Footer() {
         <div className="pt-8 border-t border-dark-800/50 flex flex-col md:flex-row items-center justify-between gap-4">
           <p className="text-dark-400 text-sm">
             © {currentYear} Yacine ALLAM. Tous droits réservés.
-          </p>
-          <p className="text-dark-500 text-sm flex items-center gap-1">
-            Fait avec <Heart className="w-4 h-4 text-red-500" /> à Paris
           </p>
         </div>
       </div>
