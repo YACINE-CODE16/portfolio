@@ -7,8 +7,8 @@ export const personalInfo = {
   description: "Étudiant en 4ème année d'école d'ingénieur passionné par la Data Science et le Machine Learning. Je recherche un stage de 4-5 mois en Data Science/Data Analysis à partir d'avril 2026.",
   email: "yacineallam00@gmail.com",
   phone: "+33 6.02.48.30.52",
-  linkedin: "https://linkedin.com/in/yacine-allam",
-  github: "https://github.com/yacineallam",
+  linkedin: "https://www.linkedin.com/in/yacineallam/",
+  github: "https://github.com/YACINE-CODE16",
   location: "Paris, France",
 };
 
@@ -208,6 +208,6 @@ export const navLinks = [
 
 export const socialLinks = [
   { name: "Email", href: "mailto:yacineallam00@gmail.com", icon: Mail },
-  { name: "LinkedIn", href: "https://linkedin.com/in/yacine-allam", icon: Linkedin },
-  { name: "GitHub", href: "https://github.com/yacineallam", icon: Github },
+  { name: "LinkedIn", href: "https://www.linkedin.com/in/yacineallam/", icon: Linkedin },
+  { name: "GitHub", href: "https://github.com/YACINE-CODE16", icon: Github },
 ];
