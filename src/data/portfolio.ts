@@ -147,7 +147,7 @@ export const projects = [
       "AUC RF": "0.54",
       "Horizon": "15 jours",
     },
-    github: "https://github.com/yacineallam/cac40-prediction",
+    github: "https://github.com/YACINE-CODE16/cac40-prediction",
     demo: "https://cac40-prediction.streamlit.app",
     featured: true,
   },
@@ -162,7 +162,7 @@ export const projects = [
       "Secteurs": "11",
       "Métriques": "15+",
     },
-    github: "https://github.com/yacineallam/sp500-analysis",
+    github: "https://github.com/YACINE-CODE16/sp500-analysis",
     featured: true,
   },
   {
@@ -176,7 +176,7 @@ export const projects = [
       "AUC-ROC": "0.82",
       "Features": "20+",
     },
-    github: "https://github.com/yacineallam/credit-default-prediction",
+    github: "https://github.com/YACINE-CODE16/credit-default-prediction",
     featured: true,
   },
 ];
